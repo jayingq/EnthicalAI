@@ -9,7 +9,7 @@ Framework:
 UI:
 
 PC-version:
-<img src="https://github.com/jayingq/EnthicalAI/blob/master/Framework.png" width="528" height="430">
+<img src="https://github.com/jayingq/EnthicalAI/blob/master/Sketch/PC-demo.png" width="528" height="430">
 
 
 App-version:
